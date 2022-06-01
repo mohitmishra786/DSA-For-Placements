@@ -6,3 +6,5 @@
 4. [Check Palindrome](https://bit.ly/39UrBjK)
 5. [Reverse The Array](https://bit.ly/3yHCsYL)
 6. [Power Set](https://bit.ly/39MNFwz)
+7. [Permutations of a String](https://bit.ly/3ajil9b)
+8. [All Unique Permutations](https://bit.ly/39SpX1X)
