@@ -11,3 +11,4 @@
 9. [All Unique Permutations](https://bit.ly/39SpX1X)
 10. [Subsets II](https://www.codingninjas.com/codestudio/problems/unique-subsets_3625236) 
 11. [Combinations](https://bit.ly/38RWx3X)
+12. [N-Queens](https://leetcode.com/problems/n-queens/)
