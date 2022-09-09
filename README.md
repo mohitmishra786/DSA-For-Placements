@@ -1,1 +1,4 @@
-# 90-Days-Placement-DSA
+# DSA For Placement
+
+- Recursion
+- Dynamic Programming
